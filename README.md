@@ -2,7 +2,7 @@
 
 ## About The Project
 
-Particle effect developed with Three.js
+Particle effect developed with Three.js and GLSL
 
 ### Installation
 
